@@ -36,4 +36,4 @@ Step 3:Download gitbash : https://git-scm.com/downloads
 5. SETUP .env FILE TO CONNECT XAMPP DATABASE
 6. php artisan serve
    
-7. 
+
